@@ -1,0 +1,19 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: black
+}
+
+.fa-facebook {
+    color: blue
+}
+
+.fa-instagram {
+    color: rgb(247, 134, 21)
+}
+
+.fa-youtube {
+    color: red
+}
